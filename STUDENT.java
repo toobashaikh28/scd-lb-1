@@ -1,7 +1,7 @@
-package STD;
 
 public class STUDENT {
-	public static
-
+	public static void main(String args[]){
+		system.out.println("hello, with changes")
+	}
 }
 
